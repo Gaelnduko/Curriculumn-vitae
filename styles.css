@@ -1,3 +1,4 @@
+
 /* Base Styles */
 :root {
     --primary: #6366f1;
@@ -1023,7 +1024,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-/* Animation for skill bars on load */
+
 @keyframes fillSkill {
     from { width: 0; }
     to { width: 100%; }
